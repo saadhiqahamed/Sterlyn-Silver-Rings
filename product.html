@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ring Detail — STERLYN Silver Rings</title>
+  <meta name="description" content="View detailed product information, available sizes and finishes for this STERLYN handcrafted 925 sterling silver ring.">
+  <meta property="og:title" content="Ring Detail — STERLYN">
+  <meta property="og:image" content="images/logo.png">
+  <link rel="icon" type="image/png" href="images/logo.png">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="product">
+
+<div id="announcement-bar"></div>
+<div id="navbar-container"></div>
+
+<!-- PRODUCT CONTENT -->
+<section class="py-5 py-lg-6">
+  <div class="container">
+    <div id="pdp-content">
+      <!-- Skeleton loader while JS loads the product -->
+      <div class="row g-5">
+        <div class="col-lg-6">
+          <div class="skeleton" style="aspect-ratio:1;border-radius:8px"></div>
+          <div class="d-flex gap-2 mt-3">
+            <div class="skeleton" style="width:68px;height:68px;border-radius:6px"></div>
+            <div class="skeleton" style="width:68px;height:68px;border-radius:6px"></div>
+            <div class="skeleton" style="width:68px;height:68px;border-radius:6px"></div>
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="skeleton mb-2" style="height:11px;width:30%"></div>
+          <div class="skeleton mb-3" style="height:44px;width:85%"></div>
+          <div class="skeleton mb-3" style="height:32px;width:40%"></div>
+          <div class="skeleton mb-4" style="height:80px;width:100%"></div>
+          <div class="skeleton mb-3" style="height:40px;width:100%"></div>
+          <div class="skeleton mb-3" style="height:40px;width:100%"></div>
+          <div class="skeleton" style="height:52px;width:100%"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- RELATED RINGS -->
+<section class="py-5" style="background:var(--bg)" id="related-section">
+  <div class="container">
+    <div class="text-center mb-4 reveal">
+      <p class="section-label">You May Also Like</p>
+      <h2 class="section-heading">Related Rings</h2>
+      <div class="section-line centered"></div>
+    </div>
+    <div class="row g-3" id="related-grid"></div>
+  </div>
+</section>
+
+<!-- Size Guide Modal -->
+<div class="modal fade" id="sizeGuideModal" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered modal-lg">
+    <div class="modal-content">
+      <div class="modal-header border-0">
+        <h5 class="modal-title" style="font-family:Cormorant Garamond,serif;font-size:1.4rem">Ring Size Guide</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+      <div class="modal-body">
+        <p style="font-size:0.84rem;color:var(--muted)" class="mb-3">Measure your finger circumference in millimetres for the most accurate fit.</p>
+        <div class="table-responsive">
+          <table class="table table-bordered size-guide-table">
+            <thead><tr><th>US Size</th><th>Diameter (mm)</th><th>Circumference (mm)</th><th>UK Size</th></tr></thead>
+            <tbody>
+              <tr><td>5</td><td>15.7</td><td>49.3</td><td>J&frac12;</td></tr>
+              <tr><td>5.5</td><td>16.1</td><td>50.6</td><td>K&frac12;</td></tr>
+              <tr><td>6</td><td>16.5</td><td>51.9</td><td>L&frac12;</td></tr>
+              <tr><td>6.5</td><td>16.9</td><td>53.1</td><td>M&frac12;</td></tr>
+              <tr><td>7</td><td>17.3</td><td>54.4</td><td>N&frac12;</td></tr>
+              <tr><td>7.5</td><td>17.7</td><td>55.7</td><td>O&frac12;</td></tr>
+              <tr><td>8</td><td>18.1</td><td>56.9</td><td>P&frac12;</td></tr>
+              <tr><td>8.5</td><td>18.5</td><td>58.2</td><td>Q&frac12;</td></tr>
+              <tr><td>9</td><td>18.9</td><td>59.5</td><td>R&frac12;</td></tr>
+              <tr><td>10</td><td>19.8</td><td>62.1</td><td>T&frac12;</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="concierge-box mt-3 p-3">
+          <h5 style="font-size:1rem">Still unsure?</h5>
+          <p class="mb-2" style="font-size:0.82rem">Call or WhatsApp &mdash; we&apos;ll guide you to the perfect fit.</p>
+          <a href="tel:+94758600747" class="btn-call-outline me-2 px-3 py-1" style="font-size:0.78rem">Call Us</a>
+          <a href="https://wa.me/94758600747?text=Hello%20STERLYN!%20I%20need%20help%20with%20my%20ring%20size." target="_blank" class="btn-wa-outline px-3 py-1" style="font-size:0.78rem">WhatsApp</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="footer-container"></div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

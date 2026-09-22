@@ -1,0 +1,38 @@
+{
+  "name": "STERLYN Silver Rings",
+  "short_name": "STERLYN",
+  "description": "Handcrafted 925 Sterling Silver Rings from Sri Lanka",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#F8F8F8",
+  "theme_color": "#1C1C1C",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "images/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Shop All Rings",
+      "short_name": "Shop",
+      "url": "/shop.html",
+      "description": "Browse all STERLYN silver rings"
+    },
+    {
+      "name": "Collections",
+      "short_name": "Collections",
+      "url": "/collections.html",
+      "description": "Explore our four ring collections"
+    }
+  ],
+  "categories": ["shopping", "lifestyle"],
+  "lang": "en"
+}

@@ -1,0 +1,110 @@
+﻿[
+  {
+    "id": "crescent-moon",
+    "name": "Crescent Moon Ring",
+    "price": 38,
+    "category": "minimalist",
+    "material": "925 Sterling Silver",
+    "description": "A delicate crescent moon silhouette hand-crafted in pure 925 sterling silver. Whisper-thin and weightless, this ring captures the quiet elegance of the night sky. Perfect for everyday wear and effortless stacking — alone it speaks softly, layered it sings.",
+    "badge": "Bestseller",
+    "stock": 4,
+    "sizes": [5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9],
+    "finishes": ["Polished", "Matte", "Oxidized"],
+    "images": [
+      "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1611955167811-4711904bb9f8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1574521083261-9d90b0a95bfe?auto=format&fit=crop&w=800&q=80"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "wave-stacker",
+    "name": "Wave Stacker Ring",
+    "price": 42,
+    "category": "stackable",
+    "material": "925 Sterling Silver",
+    "description": "Fluid, ocean-inspired curves sculpted from solid 925 sterling silver. Designed specifically for stacking — each ring interplays with the next to create a rhythmic layered look. Wear one for minimalism, five for drama.",
+    "badge": "New",
+    "stock": 7,
+    "sizes": [5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10],
+    "finishes": ["Polished", "Matte"],
+    "images": [
+      "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1617038220319-276d3cfab638?auto=format&fit=crop&w=800&q=80"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "solid-signet",
+    "name": "Solid Signet Ring",
+    "price": 65,
+    "category": "statement",
+    "material": "925 Sterling Silver",
+    "description": "A bold, heavy-gauge signet ring with a flat oval face, forged from thick-cut 925 sterling silver for a weighty, commanding presence. The face can be engraved with initials or a symbol — contact us to personalise yours.",
+    "badge": "Limited",
+    "stock": 2,
+    "sizes": [7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11],
+    "finishes": ["Polished", "Brushed", "Oxidized"],
+    "images": [
+      "https://images.unsplash.com/photo-1568702846914-96b305d2aaeb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1611955167811-4711904bb9f8?auto=format&fit=crop&w=800&q=80"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "onyx-silver",
+    "name": "Onyx Silver Ring",
+    "price": 78,
+    "category": "gemstone",
+    "material": "925 Sterling Silver & Black Onyx",
+    "description": "A dramatic collision of midnight-black natural onyx and lustrous sterling silver. The oval-cut onyx cabochon is bezel-set in a sleek 925 silver band — bold, mysterious, and entirely unique. Perfect for those who wear their mood.",
+    "badge": "Bestseller",
+    "stock": 3,
+    "sizes": [5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9],
+    "finishes": ["Polished", "Oxidized"],
+    "images": [
+      "https://images.unsplash.com/photo-1617038220319-276d3cfab638?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1574521083261-9d90b0a95bfe?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=800&q=80"
+    ],
+    "isFeatured": true
+  },
+  {
+    "id": "hammered-band",
+    "name": "Hammered Band Ring",
+    "price": 45,
+    "category": "minimalist",
+    "material": "925 Sterling Silver",
+    "description": "Each indent on this ring is struck by hand, creating a unique organic texture that catches light in a thousand different ways. No two are exactly alike — that is the beauty of true handcraft. Pairs beautifully with smoother rings.",
+    "badge": null,
+    "stock": 8,
+    "sizes": [5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10],
+    "finishes": ["Hammered Natural", "Hammered Polished"],
+    "images": [
+      "https://images.unsplash.com/photo-1574521083261-9d90b0a95bfe?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1568702846914-96b305d2aaeb?auto=format&fit=crop&w=800&q=80"
+    ],
+    "isFeatured": false
+  },
+  {
+    "id": "vintage-solitaire",
+    "name": "Vintage Solitaire Ring",
+    "price": 92,
+    "category": "gemstone",
+    "material": "925 Sterling Silver & Cubic Zirconia",
+    "description": "Inspired by Art Deco grandeur, this ring features a brilliant-cut cubic zirconia centrepiece held in delicate silver prongs. Ornate milgrain detailing on the band adds old-world charm and timeless glamour fit for every occasion.",
+    "badge": "New",
+    "stock": 5,
+    "sizes": [5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9],
+    "finishes": ["Polished", "Rose-Toned"],
+    "images": [
+      "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1568702846914-96b305d2aaeb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1617038220319-276d3cfab638?auto=format&fit=crop&w=800&q=80"
+    ],
+    "isFeatured": true
+  }
+]
